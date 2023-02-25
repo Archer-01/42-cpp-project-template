@@ -20,8 +20,9 @@
   - No relinking
   - Automatically generated header dependencies
   - Make argument to make your life much simpler ((https://github.com/Archer-01/42-cpp-project-template/blob/main/Makefile))
-* Clangd support
+* [Clangd](https://clangd.llvm.org/) support
   - This template is meant to be used with [clangd](https://clangd.llvm.org/)
+* [Clang format](https://clang.llvm.org/docs/ClangFormat.html) support
 
 > **Note**
 > This template was written for MacOS only
