@@ -8,12 +8,6 @@
 
 <h4 align="center">A 42 C++ Project Template with Unit Testing</h4>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-</p>
-
 <br>
 
 ## Key Features
@@ -25,7 +19,7 @@
   - Added rules for testing (test & testall)
   - No relinking
   - Automatically generated header dependencies
-  - Make argument to make your life much simpler ([Read the docs](https://github.com/Archer-01/42-cpp-project-template/blob/main/Makefile))
+  - Make argument to make your life much simpler ((https://github.com/Archer-01/42-cpp-project-template/blob/main/Makefile))
 * Clangd support
   - This template is meant to be used with [clangd](https://clangd.llvm.org/)
 
