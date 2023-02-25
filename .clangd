@@ -1,0 +1,13 @@
+CompileFlags:
+  Compiler: c++
+  Add: [-Wall, -Wextra, -Werror, -std=c++98, --analyze]
+
+Diagnostics:
+  ClangTidy:
+    Add: "*"
+    Remove: [
+      "llvmlibc*",
+      "cppcoreguidelines-prefer-member-initializer",
+      "fuchsia-overloaded-operator",
+      "cert-dcl21-cpp",
+    ]
