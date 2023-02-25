@@ -111,7 +111,7 @@ $(OBJ_DIR):
 # ******************************** Test config *********************************
 
 # Please write all test suite names here
-TEST_NAMES :=
+TEST_NAMES := sayHello
 
 # Please write all external dependencies here
 # Example: unitName_DEP := dependency1 dependency2 ...
