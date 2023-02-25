@@ -1,11 +1,7 @@
 #!/bin/bash
 
 # install-catch.sh: Install Catch unit testing framework
-
-if [ $(basename $PWD) != "catch" ]; then
-	>&2 echo "Please run this script from the project root directory"
-	exit 1
-fi
+# NOTE: This script is meant to run in the root directory of the project.
 
 if [ ! -f "include/catch.hpp" ]; then
 	curl -sLO "https://github.com/philsquared/Catch/releases/download/v1.12.2/catch.hpp"
