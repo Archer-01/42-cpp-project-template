@@ -16,7 +16,7 @@
   - Has a GitHub Action to test code on push
 * Well written Makefile
   - Built with the usual rules (all, clean, fclean & re)
-  - Added rules for testing (test & testall)
+  - Added rules for testing (test & testall). Unit testing is done using [Catch](https://github.com/catchorg/Catch2/tree/Catch1.x) 
   - No relinking
   - Automatically generated header dependencies
   - Make argument to make your life much simpler ((https://github.com/Archer-01/42-cpp-project-template/blob/main/Makefile))
