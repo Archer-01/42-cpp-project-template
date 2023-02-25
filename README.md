@@ -19,7 +19,7 @@
   - Added rules for testing (test & testall). Unit testing is done using [Catch](https://github.com/catchorg/Catch2/tree/Catch1.x) 
   - No relinking
   - Automatically generated header dependencies
-  - Make argument to make your life much simpler ((https://github.com/Archer-01/42-cpp-project-template/blob/main/Makefile))
+  - Make argument to make your life much simpler ([Read the docs](https://github.com/Archer-01/42-cpp-project-template/blob/main/Makefile))
 * [Clangd](https://clangd.llvm.org/) support
   - This template is meant to be used with [clangd](https://clangd.llvm.org/)
 * [Clang format](https://clang.llvm.org/docs/ClangFormat.html) support
