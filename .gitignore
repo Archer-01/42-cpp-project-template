@@ -1,0 +1,20 @@
+# Executable name
+a.out
+
+# IDE files
+.vscode/
+.idea/
+.*.swp
+
+# OS files
+.DS_Store
+
+# Build files
+*.o
+*.out
+
+# Test executables
+*.test
+
+# Dependency files
+*.d
