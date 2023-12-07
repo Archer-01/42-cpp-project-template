@@ -1,9 +1,5 @@
 <h1 align="center">
-  <br>
-  <a href="#"><img src="https://www.pikpng.com/pngl/b/469-4698781_learning-c-programming-4-c-logo-svg-clipart.png" alt="Markdownify" width="200"></a>
-  <br>
   42-cpp-project-template
-  <br>
 </h1>
 
 <h4 align="center">A 42 C++ Project Template with Unit Testing</h4>
